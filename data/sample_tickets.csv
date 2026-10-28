@@ -1,0 +1,34 @@
+ticket_description,solution_category
+forgot my password,password_reset
+cannot remember my login password,password_reset
+need help recovering my account password,password_reset
+password reset link is needed,password_reset
+my payment failed,payment_check
+money was deducted but payment failed,payment_check
+payment transaction is unsuccessful,payment_check
+my card payment did not complete,payment_check
+where is my order,order_tracking
+my order has not arrived,order_tracking
+I want to track my delivery,order_tracking
+my package is delayed,order_tracking
+I cannot log in to my account,login_troubleshooting
+unable to access my account,login_troubleshooting
+login page is not allowing me to sign in,login_troubleshooting
+my account login is not working,login_troubleshooting
+the application keeps crashing,technical_support
+the website shows an error,technical_support
+the application is not working properly,technical_support
+I get an error when opening the application,technical_support
+my laptop keeps restarting,technical_support
+laptop restarting issue,technical_support
+my computer restarts automatically,technical_support
+computer keeps restarting while working,technical_support
+my laptop keeps shutting down unexpectedly,technical_support
+my computer freezes and restarts,technical_support
+laptop is overheating and restarting,technical_support
+my laptop is overheating,technical_support
+my computer has a heating problem,technical_support
+my system keeps crashing,technical_support
+computer has a technical problem,technical_support
+my laptop is not working properly,technical_support
+windows computer restarts repeatedly,technical_support

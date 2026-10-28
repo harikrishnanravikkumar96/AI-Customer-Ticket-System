@@ -1,0 +1,8 @@
+Login Troubleshooting Guide
+
+If a customer cannot log in, check whether the registered
+email address is correct and whether the account is locked.
+If the customer forgot the password, follow the password
+reset guide. If the problem continues after resetting the
+password, collect the error message and escalate to technical
+support. Never request passwords or one-time verification codes.

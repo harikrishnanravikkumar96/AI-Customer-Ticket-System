@@ -1,0 +1,7 @@
+Order Tracking Guide
+
+For a delayed order, verify the order number and check the
+latest tracking information. Explain the available delivery
+status to the customer. If tracking has not updated or the
+package is overdue, raise a request with the delivery team.
+Do not invent a delivery date that is not confirmed.

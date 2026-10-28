@@ -1,0 +1,9 @@
+Payment Failure Guide
+
+If a payment fails, first check the transaction status in
+the payment system. If money was deducted but the order
+was not confirmed, do not ask the customer to pay again
+immediately. Verify the transaction and follow the official
+refund or reconciliation process. Escalate unresolved
+transactions to the payment support team. Do not promise
+a refund date unless it has been confirmed.
